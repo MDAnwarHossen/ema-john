@@ -4,7 +4,7 @@ import urllib.request
 import math
 import flet as ft
 
-PRODUCTS_JSON_URL = "https://raw.githubusercontent.com/ProgrammingHero1/ema-john-resources/main/fakeData/products.json"
+PRODUCTS_JSON_URL = "https://raw.githubusercontent.com/MDAnwarHossen/ema-john/refs/heads/main/products.json"
 COLORS = getattr(ft, "colors", getattr(ft, "Colors", None))
 
 # ImageFit compatibility
